@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/restaurants/static/js/main.b28c7eea.chunk.js",
-    "main.js.map": "/restaurants/static/js/main.b28c7eea.chunk.js.map",
-    "runtime-main.js": "/restaurants/static/js/runtime-main.10ba56ca.js",
-    "runtime-main.js.map": "/restaurants/static/js/runtime-main.10ba56ca.js.map",
-    "static/css/2.4c34b247.chunk.css": "/restaurants/static/css/2.4c34b247.chunk.css",
-    "static/js/2.8845d805.chunk.js": "/restaurants/static/js/2.8845d805.chunk.js",
-    "static/js/2.8845d805.chunk.js.map": "/restaurants/static/js/2.8845d805.chunk.js.map",
-    "index.html": "/restaurants/index.html",
-    "static/css/2.4c34b247.chunk.css.map": "/restaurants/static/css/2.4c34b247.chunk.css.map",
-    "static/js/2.8845d805.chunk.js.LICENSE.txt": "/restaurants/static/js/2.8845d805.chunk.js.LICENSE.txt"
+    "main.js": "/sample-mern/static/js/main.b28c7eea.chunk.js",
+    "main.js.map": "/sample-mern/static/js/main.b28c7eea.chunk.js.map",
+    "runtime-main.js": "/sample-mern/static/js/runtime-main.dc8ecbc2.js",
+    "runtime-main.js.map": "/sample-mern/static/js/runtime-main.dc8ecbc2.js.map",
+    "static/css/2.4c34b247.chunk.css": "/sample-mern/static/css/2.4c34b247.chunk.css",
+    "static/js/2.8845d805.chunk.js": "/sample-mern/static/js/2.8845d805.chunk.js",
+    "static/js/2.8845d805.chunk.js.map": "/sample-mern/static/js/2.8845d805.chunk.js.map",
+    "index.html": "/sample-mern/index.html",
+    "static/css/2.4c34b247.chunk.css.map": "/sample-mern/static/css/2.4c34b247.chunk.css.map",
+    "static/js/2.8845d805.chunk.js.LICENSE.txt": "/sample-mern/static/js/2.8845d805.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.10ba56ca.js",
+    "static/js/runtime-main.dc8ecbc2.js",
     "static/css/2.4c34b247.chunk.css",
     "static/js/2.8845d805.chunk.js",
     "static/js/main.b28c7eea.chunk.js"
